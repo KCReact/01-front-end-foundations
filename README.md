@@ -1,3 +1,2 @@
-# 01-front-end-foundations
-
+Front-End-Foundations
 HTML and CSS Code Snippets
